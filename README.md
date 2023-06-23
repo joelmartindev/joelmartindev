@@ -5,7 +5,7 @@
 - Currently I'm working on building a portfolio to get my first internship!
 - Find my first project here: [Bikeapp 🚴](https://github.com/joelmartindev/Solita-Dev-Academy-2023-Exercise)
 - I'm most proficient at Java, JavaScript, React
-- Future projects will include C#, .NET, Angular and more!
+- Future projects will include NextJS, Angular, C#, .NET and more!
 <!--
 
 - 🔭 I’m currently working on ...

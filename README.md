@@ -1,11 +1,13 @@
-### Hello there, I'm Joel! 👨‍💻
+# Hello there, I'm Joel! 👨‍💻
 
-- I'm a last year student at Metropolia studying ICT and majoring in Software Engineering
-- That means that I have experience with desktop and web applications
+- I'm a final year student at Metropolia studying ICT and majoring in Software Engineering
+- I have experience with desktop and web applications mostly with Java, JavaScript and React
 - Currently I'm working on building a portfolio to get my first internship!
-- Find my first project here: [Bikeapp 🚴](https://github.com/joelmartindev/Solita-Dev-Academy-2023-Exercise)
-- I'm most proficient at Java, JavaScript, React
-- Future projects will include NextJS, Angular, C#, .NET and more!
+- All repos are my personal projects that I've worked on alone
+  ## Projects to check out
+- [🚴 Bikeapp](https://github.com/joelmartindev/Helsinki-Bikeapp) (JavaScript, React, Node.js, PostgreSQL)
+- [✍️ Engineering thesis](https://github.com/joelmartindev/insinoorityo) WIP (LLMs, planning to use Java, not decided on everything yet)
+- Future projects will include Next.js, Three.js, C#, .NET and more!
 <!--
 
 - 🔭 I’m currently working on ...

@@ -1,13 +1,13 @@
 # Hello there, I'm Joel! 👨‍💻
 
-- I'm a final year student at Metropolia studying ICT and majoring in Software Engineering
+- I've recently graduated from Metropolia as a Software Engineer
 - I have school and personal experience with desktop and web applications made mostly with Java, JavaScript and React
 - At work I've done test automation with Robot Framework, Python & frontend development with JS
-- Currently I'm working on my thesis and building a portfolio to get my second internship!
+- I'm working on a secret project in private 🤫
 - All repos are my personal projects that I've worked on alone
-  ## Projects to check out
+  ## Projects to check out right now
 - [🚴 Bikeapp](https://github.com/joelmartindev/Helsinki-Bikeapp) (JavaScript, React, Node.js, PostgreSQL)
-- [✍️ Engineering thesis](https://github.com/joelmartindev/insinoorityo) (Local LLMs, Llama 3.1, Ollama, LangChain, Python, React)
+- [✍️ Thesis: Local LLM RAG Chatbot](https://github.com/joelmartindev/insinoorityo) (Local LLMs, Llama 3.1, Ollama, LangChain, Python, React)
 - Future projects will include Next.js, Three.js, Java and more!
 <!--
 
